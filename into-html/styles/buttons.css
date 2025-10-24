@@ -1,4 +1,3 @@
-<style>
     .subscribe {
       background-color: rgb(200, 0, 0);
       color: white;
@@ -62,10 +61,10 @@
       cursor: pointer;
       margin-right: 8px;
       transition: box-shadow 1s,
-      padding-left 1s,
-      padding-top 1s,
-      padding-bottom 1s,
-      padding-right 1s;
+        padding-left 1s,
+        padding-top 1s,
+        padding-bottom 1s,
+        padding-right 1s;
       vertical-align: top;
     }
     .tweet:hover {
@@ -79,17 +78,3 @@
       box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.3);
       opacity: 0.6;
     }
-</style>
-
-
-<button class="subscribe">
-  SUBSCRIBE
-</button>
-
-<button class="join">
-  JOIN
-</button>
-
-<button class="tweet">
-  Tweet
-</button>
